@@ -1,0 +1,462 @@
+{
+  "games" : [ {
+    "gameName" : "Warmachine & Hordes",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Aurora, The Numen of Aerogenesis",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -29,
+        "unitID" : 581,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 29
+        }
+      }, {
+        "unitName" : "Axis, The Harmonic Enforcer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -30,
+        "unitID" : 625,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 30
+        }
+      }, {
+        "unitName" : "Eminent Configurator Orion",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 667,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 28
+        }
+      }, {
+        "unitName" : "Father Lucant, The Divinity Architect",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 668,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 28
+        }
+      }, {
+        "unitName" : "Forge Master Syntherion",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -27,
+        "unitID" : 669,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 27
+        }
+      }, {
+        "unitName" : "Prime Axion",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 38,
+        "unitID" : 670,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -38
+        }
+      }, {
+        "unitName" : "Transfinite Emergence Projector",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Battle Engines & Structures",
+        "unitCost" : 19,
+        "unitID" : 671,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 19
+        }
+      }, {
+        "unitName" : "Assimilator",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 16,
+        "unitID" : 672,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -16
+        }
+      }, {
+        "unitName" : "Cipher",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 16,
+        "unitID" : 673,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -16
+        }
+      }, {
+        "unitName" : "Iron Mother Directrix & Exponent Servitors",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -27,
+        "unitID" : 674,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 27
+        }
+      }, {
+        "unitName" : "Conservator",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 12,
+        "unitID" : 675,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -12
+        }
+      }, {
+        "unitName" : "Prime Conflux",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 37,
+        "unitID" : 676,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -37
+        }
+      }, {
+        "unitName" : "Corollary",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 6,
+        "unitID" : 677,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -6
+        }
+      }, {
+        "unitName" : "Diffuser",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 6,
+        "unitID" : 678,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -6
+        }
+      }, {
+        "unitName" : "Galvanizer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 5,
+        "unitID" : 679,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -5
+        }
+      }, {
+        "unitName" : "Inverter",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 15,
+        "unitID" : 680,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -15
+        }
+      }, {
+        "unitName" : "Mitigator",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 7,
+        "unitID" : 681,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -7
+        }
+      }, {
+        "unitName" : "Modulator",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 10,
+        "unitID" : 682,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -10
+        }
+      }, {
+        "unitName" : "Monitor",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 16,
+        "unitID" : 683,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -16
+        }
+      }, {
+        "unitName" : "Clockwork Angels",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 5,
+        "unitID" : 684,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 5
+        }
+      }, {
+        "unitName" : "Eradicators",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 1211,
+          "optionName" : "2 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : "6"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 9,
+        "unitID" : 685,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 9
+        }
+      }, {
+        "unitName" : "Obstructors",
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 1212,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : "4"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 7,
+        "unitID" : 686,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 7
+        }
+      }, {
+        "unitName" : "Optifex Directive",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 687,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Perforators",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 1213,
+          "optionName" : "2 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : "6"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 10,
+        "unitID" : 688,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 10
+        }
+      }, {
+        "unitName" : "Reciprocators",
+        "listOfOptions" : [ {
+          "optionCost" : 7,
+          "listOfRestrictions" : null,
+          "optionID" : 1215,
+          "optionName" : "2 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : "7"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 11,
+        "unitID" : 689,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 11
+        }
+      }, {
+        "unitName" : "Reductors",
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 1216,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : "5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 8,
+        "unitID" : 690,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 8
+        }
+      }, {
+        "unitName" : "Transverse Enumerator",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 3,
+        "unitID" : 691,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 3
+        }
+      }, {
+        "unitName" : "Accretion Servitors",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 2,
+        "unitID" : 692,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 2
+        }
+      }, {
+        "unitName" : "Algorithmic Dispersion Optifex",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 2,
+        "unitID" : 693,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "2"
+        }
+      }, {
+        "unitName" : "Attunement Servitors",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 694,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Eliminator Servitors",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 3,
+        "unitID" : 695,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 3
+        }
+      }, {
+        "unitName" : "Enigma Foundry",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 696,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Frustum Locus",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 698,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Reflex Servitors",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 699,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Steelsoul Protector",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 700,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Permutation Servitors",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 0,
+        "unitID" : 1209,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ionization Servitors",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 0,
+        "unitID" : 1210,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Convergence of Cyriss",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Warcasters & Warlocks", "Warjacks & Warbeasts", "Units", "Solos", "Battle Engines & Structures" ],
+    "listOfCurrencies" : [ "Available Warjack Points", "Unit Points Spent" ]
+  } ]
+}

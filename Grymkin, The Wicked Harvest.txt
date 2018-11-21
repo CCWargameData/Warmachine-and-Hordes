@@ -1,0 +1,502 @@
+{
+  "games" : [ {
+    "gameName" : "Warmachine & Hordes",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Zevanna Agha, The Fate Keeper",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -27,
+        "unitID" : 1080,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : "27"
+        }
+      }, {
+        "unitName" : "Cage Rager",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 14,
+        "unitID" : 1081,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : "-14"
+        }
+      }, {
+        "unitName" : "Crabbit",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 7,
+        "unitID" : 1082,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : "-7"
+        }
+      }, {
+        "unitName" : "Frightmare",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 9,
+        "unitID" : 1083,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : "-9"
+        }
+      }, {
+        "unitName" : "The Child",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -29,
+        "unitID" : 1084,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : "-29"
+        }
+      }, {
+        "unitName" : "Wrath",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Arcana",
+        "unitCost" : 0,
+        "unitID" : 1085,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "The Heretic",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 1161,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : "28"
+        }
+      }, {
+        "unitName" : "Gorehound",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 6,
+        "unitID" : 1162,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : "-6"
+        }
+      }, {
+        "unitName" : "Reckoning",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Arcana",
+        "unitCost" : 0,
+        "unitID" : 1163,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Taste of Ashes",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Arcana",
+        "unitCost" : 0,
+        "unitID" : 1164,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "The King of Nothing",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 1165,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : "28"
+        }
+      }, {
+        "unitName" : "Rattler",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 8,
+        "unitID" : 1166,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : "-8"
+        }
+      }, {
+        "unitName" : "Skin & Moans",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 15,
+        "unitID" : 1167,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : "-15"
+        }
+      }, {
+        "unitName" : "The Wanderer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 1168,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : "28"
+        }
+      }, {
+        "unitName" : "Divergent Path",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Arcana",
+        "unitCost" : 0,
+        "unitID" : 1169,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "The Dreamer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 1170,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : "28"
+        }
+      }, {
+        "unitName" : "All Fall Down",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Arcana",
+        "unitCost" : 0,
+        "unitID" : 1171,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Phantasm",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 0,
+        "unitID" : 1172,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Dread Rots",
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 1202,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : "5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 7,
+        "unitID" : 1173,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "7"
+        }
+      }, {
+        "unitName" : "Hollow Holden",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 1174,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "4"
+        }
+      }, {
+        "unitName" : "Hollowmen",
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 1201,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : "5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 8,
+        "unitID" : 1175,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "8"
+        }
+      }, {
+        "unitName" : "Lantern Man",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 3,
+        "unitID" : 1176,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "3"
+        }
+      }, {
+        "unitName" : "Mad Caps",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 1177,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "4"
+        }
+      }, {
+        "unitName" : "Murder Crows",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 9,
+        "unitID" : 1178,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "9"
+        }
+      }, {
+        "unitName" : "Neigh Slayers",
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 1200,
+          "optionName" : "2 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : "5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 7,
+        "unitID" : 1179,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "7"
+        }
+      }, {
+        "unitName" : "Piggybacks",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 1199,
+          "optionName" : "2 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : "6"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 9,
+        "unitID" : 1180,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "9"
+        }
+      }, {
+        "unitName" : "Twilight Sisters",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 7,
+        "unitID" : 1181,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "7"
+        }
+      }, {
+        "unitName" : "Cask Imp",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 1,
+        "unitID" : 1182,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "1"
+        }
+      }, {
+        "unitName" : "Glimmer Imp",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 1183,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "4"
+        }
+      }, {
+        "unitName" : "Lady Karianna Rose",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 1184,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "4"
+        }
+      }, {
+        "unitName" : "Lord Longfellow",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 6,
+        "unitID" : 1185,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "6"
+        }
+      }, {
+        "unitName" : "Trapperkin",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 3,
+        "unitID" : 1186,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "3"
+        }
+      }, {
+        "unitName" : "Witchwood",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 5,
+        "unitID" : 1187,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "5"
+        }
+      }, {
+        "unitName" : "Death Knell",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Battle Engines & Structures",
+        "unitCost" : 13,
+        "unitID" : 1188,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "13"
+        }
+      }, {
+        "unitName" : "Accursed",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Arcana",
+        "unitCost" : 0,
+        "unitID" : 1189,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Desolation",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Arcana",
+        "unitCost" : 0,
+        "unitID" : 1190,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Fortune's Path",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Arcana",
+        "unitCost" : 0,
+        "unitID" : 1191,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ill Omens",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Arcana",
+        "unitCost" : 0,
+        "unitID" : 1192,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Labyrinth",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Arcana",
+        "unitCost" : 0,
+        "unitID" : 1193,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Pandemonium",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Arcana",
+        "unitCost" : 0,
+        "unitID" : 1194,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ruin",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Arcana",
+        "unitCost" : 0,
+        "unitID" : 1195,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Sacrifice",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Arcana",
+        "unitCost" : 0,
+        "unitID" : 1196,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Shroud",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Arcana",
+        "unitCost" : 0,
+        "unitID" : 1197,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "The Shadow",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Arcana",
+        "unitCost" : 0,
+        "unitID" : 1198,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Grymkin, The Wicked Harvest",
+      "armyCategories" : [ "Arcana" ]
+    } ],
+    "gameCategories" : [ "Warcasters & Warlocks", "Warjacks & Warbeasts", "Units", "Solos", "Battle Engines & Structures" ],
+    "listOfCurrencies" : [ "Available Warjack Points", "Unit Points Spent" ]
+  } ]
+}

@@ -1,0 +1,887 @@
+{
+  "games" : [ {
+    "gameName" : "Warmachine & Hordes",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Adeptus Rahn",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -26,
+        "unitID" : 456,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 26
+        }
+      }, {
+        "unitName" : "Dawnlord Vyros",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 457,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 28
+        }
+      }, {
+        "unitName" : "Elara, Death's Shadow",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 458,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 28
+        }
+      }, {
+        "unitName" : "Garryth, The Blade of Retribution",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -29,
+        "unitID" : 459,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 29
+        }
+      }, {
+        "unitName" : "Issyria, Sibyl of the Dawn",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -29,
+        "unitID" : 460,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 29
+        }
+      }, {
+        "unitName" : "Kaelyssa, The Night's Whisper",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -29,
+        "unitID" : 461,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 29
+        }
+      }, {
+        "unitName" : "Lord Arcanist Ossyan",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 462,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 28
+        }
+      }, {
+        "unitName" : "Lord Ghyrrshyld, The Forgiven",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 463,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 28
+        }
+      }, {
+        "unitName" : "Magister Helynna",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -30,
+        "unitID" : 464,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 30
+        }
+      }, {
+        "unitName" : "Ravyn, The Eternal Light",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 465,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 28
+        }
+      }, {
+        "unitName" : "Thyron, Sword of Truth",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -27,
+        "unitID" : 466,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 27
+        }
+      }, {
+        "unitName" : "Vyros, Incissar of the Dawnguard",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -27,
+        "unitID" : 467,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 27
+        }
+      }, {
+        "unitName" : "Helios",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 34,
+        "unitID" : 468,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -34
+        }
+      }, {
+        "unitName" : "Hyperion",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 32,
+        "unitID" : 469,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -32
+        }
+      }, {
+        "unitName" : "Fane Knight Skeryth Issyen",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 8,
+        "unitID" : 470,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 8
+        }
+      }, {
+        "unitName" : "Aspis",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 6,
+        "unitID" : 471,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -6
+        }
+      }, {
+        "unitName" : "Banshee",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 18,
+        "unitID" : 472,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -18
+        }
+      }, {
+        "unitName" : "Chimera",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 8,
+        "unitID" : 473,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -8
+        }
+      }, {
+        "unitName" : "Daemon",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 14,
+        "unitID" : 474,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -14
+        }
+      }, {
+        "unitName" : "Discordia",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 18,
+        "unitID" : 475,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -18
+        }
+      }, {
+        "unitName" : "Gorgon",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 9,
+        "unitID" : 476,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -9
+        }
+      }, {
+        "unitName" : "Griffon",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 8,
+        "unitID" : 477,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -8
+        }
+      }, {
+        "unitName" : "Harpy",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 9,
+        "unitID" : 478,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -9
+        }
+      }, {
+        "unitName" : "Hemera",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 16,
+        "unitID" : 479,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -16
+        }
+      }, {
+        "unitName" : "Hydra",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 15,
+        "unitID" : 480,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -15
+        }
+      }, {
+        "unitName" : "Hypnos",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 17,
+        "unitID" : 481,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -17
+        }
+      }, {
+        "unitName" : "Imperatus",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 20,
+        "unitID" : 482,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -20
+        }
+      }, {
+        "unitName" : "Manticore",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 14,
+        "unitID" : 483,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -14
+        }
+      }, {
+        "unitName" : "Moros",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 11,
+        "unitID" : 484,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -11
+        }
+      }, {
+        "unitName" : "Phoenix",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 17,
+        "unitID" : 485,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -17
+        }
+      }, {
+        "unitName" : "Siren",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 8,
+        "unitID" : 486,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -8
+        }
+      }, {
+        "unitName" : "Sphinx",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 13,
+        "unitID" : 487,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -13
+        }
+      }, {
+        "unitName" : "Dawnguard Destroyers",
+        "listOfOptions" : [ {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 519,
+          "optionName" : "2 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 8
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 12,
+        "unitID" : 488,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 12
+        }
+      }, {
+        "unitName" : "Dawnguard Invictor Officer & Standard",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 489,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Dawnguard Invictors",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 518,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 9,
+        "unitID" : 490,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 9
+        }
+      }, {
+        "unitName" : "Dawnguard Sentinel Officer & Standard",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 491,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Dawnguard Sentinels",
+        "listOfOptions" : [ {
+          "optionCost" : 7,
+          "listOfRestrictions" : null,
+          "optionID" : 517,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 7
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 11,
+        "unitID" : 492,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 11
+        }
+      }, {
+        "unitName" : "Eiryss, Mage Hunter Commander",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 6,
+        "unitID" : 493,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 6
+        }
+      }, {
+        "unitName" : "Heavy Rifle Team",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 494,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "House Ellowuyr Swordsman Officer & Standard",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 5,
+        "unitID" : 495,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "5"
+        }
+      }, {
+        "unitName" : "House Ellowuyr Swordsmen",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 516,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 10,
+        "unitID" : 496,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 10
+        }
+      }, {
+        "unitName" : "House Shyeel Arcanists",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 7,
+        "unitID" : 497,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 7
+        }
+      }, {
+        "unitName" : "House Shyeel Battle Mages",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 8,
+        "unitID" : 498,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 8
+        }
+      }, {
+        "unitName" : "House Vyre Electromancers",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 8,
+        "unitID" : 499,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 8
+        }
+      }, {
+        "unitName" : "Houseguard Halberdier Officer & Standard",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 500,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Houseguard Halberdiers",
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 515,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 5
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 8,
+        "unitID" : 501,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 8
+        }
+      }, {
+        "unitName" : "Houseguard Rifleman Officer & Standard",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 502,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Houseguard Riflemen",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 514,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 9,
+        "unitID" : 503,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 9
+        }
+      }, {
+        "unitName" : "Mage Hunter Infiltrators",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 513,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 9,
+        "unitID" : 504,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 9
+        }
+      }, {
+        "unitName" : "Mage Hunter Strike Force",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 512,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 10,
+        "unitID" : 505,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 10
+        }
+      }, {
+        "unitName" : "Mage Hunter Strike Force Commander",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 506,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Ryssovass Defenders",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 511,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 10,
+        "unitID" : 507,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 10
+        }
+      }, {
+        "unitName" : "Soulless Escort",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 1,
+        "unitID" : 508,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 1
+        }
+      }, {
+        "unitName" : "Spears of Scyrah",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 9,
+        "unitID" : 509,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 9
+        }
+      }, {
+        "unitName" : "Stormfall Archers",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 9,
+        "unitID" : 510,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 9
+        }
+      }, {
+        "unitName" : "Aelyth Vyr, Blade of Nyssor",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 5,
+        "unitID" : 520,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 5
+        }
+      }, {
+        "unitName" : "Arcanist Mechanik",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 2,
+        "unitID" : 521,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 2
+        }
+      }, {
+        "unitName" : "Dawnguard Destor Thane",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 7,
+        "unitID" : 522,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 7
+        }
+      }, {
+        "unitName" : "Dawnguard Sentinel Scyir",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 523,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Elara, Tyro of the Third Chamber",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 524,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Fane Knight Guardian",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 525,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Ghost Sniper",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 3,
+        "unitID" : 526,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 3
+        }
+      }, {
+        "unitName" : "House Shyeel Artificer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 5,
+        "unitID" : 527,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 5
+        }
+      }, {
+        "unitName" : "House Shyeel Magister",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 528,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Houseguard Thane",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 529,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Lys Healer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 3,
+        "unitID" : 530,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 3
+        }
+      }, {
+        "unitName" : "Mage Hunter Assassin",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 531,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Narn, Mage Hunter of Ios",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 6,
+        "unitID" : 532,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 6
+        }
+      }, {
+        "unitName" : "Nayl",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 3,
+        "unitID" : 533,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 3
+        }
+      }, {
+        "unitName" : "Priest of Nyssor",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 534,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Soulless Voidtracer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 2,
+        "unitID" : 535,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 2
+        }
+      }, {
+        "unitName" : "Arcantrik Force Generator",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Battle Engines & Structures",
+        "unitCost" : 17,
+        "unitID" : 536,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 17
+        }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Retribution of Scyrah",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Warcasters & Warlocks", "Warjacks & Warbeasts", "Units", "Solos", "Battle Engines & Structures" ],
+    "listOfCurrencies" : [ "Available Warjack Points", "Unit Points Spent" ]
+  } ]
+}

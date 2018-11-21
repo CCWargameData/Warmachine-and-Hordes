@@ -1,0 +1,997 @@
+{
+  "games" : [ {
+    "gameName" : "Warmachine & Hordes",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Baldur the Stonecleaver",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -31,
+        "unitID" : 803,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 31
+        }
+      }, {
+        "unitName" : "Baldur the Stonesoul",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -30,
+        "unitID" : 804,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 30
+        }
+      }, {
+        "unitName" : "Bradigus Thorle The  Runecraver",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -27,
+        "unitID" : 697,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 27
+        }
+      }, {
+        "unitName" : "Grayle The Farstrider",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -29,
+        "unitID" : 720,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 29
+        }
+      }, {
+        "unitName" : "Iona The Unseen",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 723,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 28
+        }
+      }, {
+        "unitName" : "Kaya the Wildborne",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -32,
+        "unitID" : 726,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 32
+        }
+      }, {
+        "unitName" : "Kaya the Wildheart",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -27,
+        "unitID" : 781,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 27
+        }
+      }, {
+        "unitName" : "Kromac, Champion of the Wurm",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 805,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 28
+        }
+      }, {
+        "unitName" : "Krueger The Stormlord",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -27,
+        "unitID" : 806,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 27
+        }
+      }, {
+        "unitName" : "Krueger The Stormwrath",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 807,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 28
+        }
+      }, {
+        "unitName" : "Mohsar The Desertwalker",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -27,
+        "unitID" : 808,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 27
+        }
+      }, {
+        "unitName" : "Morvahna The Autumnblade",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 809,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 28
+        }
+      }, {
+        "unitName" : "Morvahna The Dawnshadow",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -27,
+        "unitID" : 810,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 27
+        }
+      }, {
+        "unitName" : "Tanith The Feral Song",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -31,
+        "unitID" : 811,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 31
+        }
+      }, {
+        "unitName" : "Una The Skyhunter",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -29,
+        "unitID" : 812,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 29
+        }
+      }, {
+        "unitName" : "Storm Raptor",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 34,
+        "unitID" : 813,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -34
+        }
+      }, {
+        "unitName" : "Woldwrath",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 37,
+        "unitID" : 814,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -37
+        }
+      }, {
+        "unitName" : "Wolf Lord Morraig",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 8,
+        "unitID" : 815,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 8
+        }
+      }, {
+        "unitName" : "Kaya The Moonhunter",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -24,
+        "unitID" : 816,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 24
+        }
+      }, {
+        "unitName" : "Laris",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 0,
+        "unitID" : 817,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Argus Moonhound",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 6,
+        "unitID" : 818,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -6
+        }
+      }, {
+        "unitName" : "Kormac The Ravenous",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -26,
+        "unitID" : 819,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 26
+        }
+      }, {
+        "unitName" : "Brennos The Elderhorn",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 15,
+        "unitID" : 820,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -15
+        }
+      }, {
+        "unitName" : "Wurmwood, Tree of Fate",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -27,
+        "unitID" : 821,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 27
+        }
+      }, {
+        "unitName" : "Cassius The Oathkeeper",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 0,
+        "unitID" : 823,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 0
+        }
+      }, {
+        "unitName" : "Feral Warpwolf",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 16,
+        "unitID" : 824,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -16
+        }
+      }, {
+        "unitName" : "Ghetorix",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 19,
+        "unitID" : 825,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -19
+        }
+      }, {
+        "unitName" : "Gnarlhorn Satyr",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 12,
+        "unitID" : 826,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -12
+        }
+      }, {
+        "unitName" : "Gorax Rager",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 7,
+        "unitID" : 827,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -7
+        }
+      }, {
+        "unitName" : "Loki",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 19,
+        "unitID" : 828,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -19
+        }
+      }, {
+        "unitName" : "Megalith",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 20,
+        "unitID" : 829,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -20
+        }
+      }, {
+        "unitName" : "Pureblood Warpwolf",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 17,
+        "unitID" : 830,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -17
+        }
+      }, {
+        "unitName" : "Razorwing Griffon",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 7,
+        "unitID" : 831,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -7
+        }
+      }, {
+        "unitName" : "Rip Horn Satyr",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 14,
+        "unitID" : 832,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -14
+        }
+      }, {
+        "unitName" : "Rotterhorn Griffon",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 7,
+        "unitID" : 833,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : "-7"
+        }
+      }, {
+        "unitName" : "Scarsfell Griffon",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 8,
+        "unitID" : 834,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -8
+        }
+      }, {
+        "unitName" : "Shadowhorn Satyr",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 12,
+        "unitID" : 835,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -12
+        }
+      }, {
+        "unitName" : "Warpwolf Stalker",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 17,
+        "unitID" : 836,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -17
+        }
+      }, {
+        "unitName" : "Wild Argus",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 7,
+        "unitID" : 837,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -7
+        }
+      }, {
+        "unitName" : "Winter Argus",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 8,
+        "unitID" : 838,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -8
+        }
+      }, {
+        "unitName" : "Wold Guardian",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 16,
+        "unitID" : 839,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -16
+        }
+      }, {
+        "unitName" : "Wold Wight",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 5,
+        "unitID" : 840,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -5
+        }
+      }, {
+        "unitName" : "Woldwarden",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 14,
+        "unitID" : 841,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -14
+        }
+      }, {
+        "unitName" : "Woldwatcher",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 8,
+        "unitID" : 842,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -8
+        }
+      }, {
+        "unitName" : "Woldwyrd",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 9,
+        "unitID" : 843,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -9
+        }
+      }, {
+        "unitName" : "Brighid & Caul",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 7,
+        "unitID" : 844,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 7
+        }
+      }, {
+        "unitName" : "Death Wolves",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 9,
+        "unitID" : 845,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 9
+        }
+      }, {
+        "unitName" : "Druid Mist Riders",
+        "listOfOptions" : [ {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 889,
+          "optionName" : "2 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 8
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 12,
+        "unitID" : 846,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 12
+        }
+      }, {
+        "unitName" : "Druid of Orboros Overseer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 847,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Druids of Orboros",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 12,
+        "unitID" : 848,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 12
+        }
+      }, {
+        "unitName" : "Nuala The Huntress",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 849,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Reeve of Orboros Chieftain & Standard",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 850,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Reeves of Orboros",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 888,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 10,
+        "unitID" : 851,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 10
+        }
+      }, {
+        "unitName" : "Sentry Stone & Mannikins",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 5,
+        "unitID" : 852,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 5
+        }
+      }, {
+        "unitName" : "Shifting Stones",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 3,
+        "unitID" : 853,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 3
+        }
+      }, {
+        "unitName" : "Stone Keeper",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 2,
+        "unitID" : 854,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 2
+        }
+      }, {
+        "unitName" : "Stoneward & Woldstalkers",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 10,
+        "unitID" : 855,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "10"
+        }
+      }, {
+        "unitName" : "Tharn Blood Pack",
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 887,
+          "optionName" : "2 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 5
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 10,
+        "unitID" : 856,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 10
+        }
+      }, {
+        "unitName" : "Tharn Bloodtrackers",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 886,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 9,
+        "unitID" : 857,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 9
+        }
+      }, {
+        "unitName" : "Tharn Bloodweaver Haruspex",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 858,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Tharn Bloodweavers",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 8,
+        "unitID" : 859,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 8
+        }
+      }, {
+        "unitName" : "Tharn Ravager Chieftain",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 5,
+        "unitID" : 860,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 5
+        }
+      }, {
+        "unitName" : "Tharn Ravagers",
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 885,
+          "optionName" : "2 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 5
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 10,
+        "unitID" : 861,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 10
+        }
+      }, {
+        "unitName" : "Tharn Wolf Riders",
+        "listOfOptions" : [ {
+          "optionCost" : 7,
+          "listOfRestrictions" : null,
+          "optionID" : 884,
+          "optionName" : "2 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 7
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 11,
+        "unitID" : 862,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 11
+        }
+      }, {
+        "unitName" : "Warpborn Skinwalker Alpha",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 863,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Warpborn Skinwalkers",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 883,
+          "optionName" : "2 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 9,
+        "unitID" : 864,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 9
+        }
+      }, {
+        "unitName" : "Wolves of Orboros",
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 882,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 4
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 7,
+        "unitID" : 865,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 7
+        }
+      }, {
+        "unitName" : "Wolves of Orboros Chieftain & Standard",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 866,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Blackclad Stoneshaper",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 3,
+        "unitID" : 867,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 3
+        }
+      }, {
+        "unitName" : "Blackclad Warfarer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 868,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Bloodweaver Night Witch",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 869,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Druid Wilder",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 870,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Gallows Grove",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 2,
+        "unitID" : 871,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 2
+        }
+      }, {
+        "unitName" : "Lord of the Feast",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 6,
+        "unitID" : 872,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 6
+        }
+      }, {
+        "unitName" : "Reeve Hunter",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 873,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Tharn Blood Shaman",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 874,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Tharn Ravager Shaman",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 875,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Tharn Ravager White Mane",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 5,
+        "unitID" : 876,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 5
+        }
+      }, {
+        "unitName" : "Tharn Wolf Rider Champion",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 7,
+        "unitID" : 877,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 7
+        }
+      }, {
+        "unitName" : "Una The Falconer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 878,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "War Wolf",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 2,
+        "unitID" : 879,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 2
+        }
+      }, {
+        "unitName" : "Celestial Fulcrum",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Battle Engines & Structures",
+        "unitCost" : 19,
+        "unitID" : 880,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 19
+        }
+      }, {
+        "unitName" : "Well of Orboros",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Battle Engines & Structures",
+        "unitCost" : 10,
+        "unitID" : 881,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 10
+        }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Circle of Orboros",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Warcasters & Warlocks", "Warjacks & Warbeasts", "Units", "Solos", "Battle Engines & Structures" ],
+    "listOfCurrencies" : [ "Available Warjack Points", "Unit Points Spent" ]
+  } ]
+}

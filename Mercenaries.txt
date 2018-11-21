@@ -1,0 +1,1388 @@
+{
+  "games" : [ {
+    "gameName" : "Warmachine & Hordes",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Ashlynn D'elyse",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -29,
+        "unitID" : 537,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 29
+        }
+      }, {
+        "unitName" : "Captain Bartolo Montador",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -26,
+        "unitID" : 538,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 26
+        }
+      }, {
+        "unitName" : "Captain Damiano",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 539,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 28
+        }
+      }, {
+        "unitName" : "Captain Phinneus Shaw",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 540,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 28
+        }
+      }, {
+        "unitName" : "Cognifex Cyphon",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -29,
+        "unitID" : 541,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 29
+        }
+      }, {
+        "unitName" : "Constance Blaize, Knight of the Prophet",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -30,
+        "unitID" : 542,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 30
+        }
+      }, {
+        "unitName" : "Drake Macbain",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -30,
+        "unitID" : 543,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 30
+        }
+      }, {
+        "unitName" : "Durgen Madhammer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -29,
+        "unitID" : 544,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 29
+        }
+      }, {
+        "unitName" : "Exulon Thexus",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -29,
+        "unitID" : 545,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 29
+        }
+      }, {
+        "unitName" : "Fiona the Black",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -31,
+        "unitID" : 546,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 31
+        }
+      }, {
+        "unitName" : "General Ossrum",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 547,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 28
+        }
+      }, {
+        "unitName" : "Gorten Grundback",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -31,
+        "unitID" : 548,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 31
+        }
+      }, {
+        "unitName" : "Lieutenant Crosse, Resistance Fighter",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -29,
+        "unitID" : 549,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 29
+        }
+      }, {
+        "unitName" : "Magnus the Traitor",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -30,
+        "unitID" : 550,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 30
+        }
+      }, {
+        "unitName" : "Magnus the Warlord",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -28,
+        "unitID" : 551,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 28
+        }
+      }, {
+        "unitName" : "Galleon",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 39,
+        "unitID" : 552,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -39
+        }
+      }, {
+        "unitName" : "Ghordson Earthbreaker",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 38,
+        "unitID" : 553,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -38
+        }
+      }, {
+        "unitName" : "Captain Sam Machorne & The Devil Dogs",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 556,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 12,
+        "unitID" : 554,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 12
+        }
+      }, {
+        "unitName" : "The Devil's Shadow Mutineers",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 8,
+        "unitID" : 555,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 8
+        }
+      }, {
+        "unitName" : "Buccaneer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 6,
+        "unitID" : 557,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -6
+        }
+      }, {
+        "unitName" : "Freebooter",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 9,
+        "unitID" : 558,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -9
+        }
+      }, {
+        "unitName" : "Caine's Hellslingers",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warcasters & Warlocks",
+        "unitCost" : -20,
+        "unitID" : 559,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : 20
+        }
+      }, {
+        "unitName" : "Gallant",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 17,
+        "unitID" : 560,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -17
+        }
+      }, {
+        "unitName" : "Ghordson Avalancher",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 17,
+        "unitID" : 561,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -17
+        }
+      }, {
+        "unitName" : "Ghordson Basher",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 9,
+        "unitID" : 562,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -9
+        }
+      }, {
+        "unitName" : "Ghordson Driller",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 10,
+        "unitID" : 563,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -10
+        }
+      }, {
+        "unitName" : "Grundback Blaster",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 6,
+        "unitID" : 564,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -6
+        }
+      }, {
+        "unitName" : "Grundback Gunner",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 6,
+        "unitID" : 565,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -6
+        }
+      }, {
+        "unitName" : "Mangler",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 15,
+        "unitID" : 566,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -15
+        }
+      }, {
+        "unitName" : "Mariner",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 14,
+        "unitID" : 567,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -14
+        }
+      }, {
+        "unitName" : "Mule",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 15,
+        "unitID" : 568,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -15
+        }
+      }, {
+        "unitName" : "Nomad",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 11,
+        "unitID" : 569,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -11
+        }
+      }, {
+        "unitName" : "Renegade",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 10,
+        "unitID" : 570,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -10
+        }
+      }, {
+        "unitName" : "Rocinante",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 18,
+        "unitID" : 571,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -18
+        }
+      }, {
+        "unitName" : "Rover",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 15,
+        "unitID" : 572,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -15
+        }
+      }, {
+        "unitName" : "Subduer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 11,
+        "unitID" : 573,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -11
+        }
+      }, {
+        "unitName" : "Talon",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 7,
+        "unitID" : 574,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -7
+        }
+      }, {
+        "unitName" : "Toro",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 13,
+        "unitID" : 575,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -13
+        }
+      }, {
+        "unitName" : "Vanguard",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 10,
+        "unitID" : 576,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -10
+        }
+      }, {
+        "unitName" : "Warden",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 10,
+        "unitID" : 577,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -10
+        }
+      }, {
+        "unitName" : "Wrecker",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 14,
+        "unitID" : 578,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -14
+        }
+      }, {
+        "unitName" : "Wroughthammer Rockram",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warjacks & Warbeasts",
+        "unitCost" : 14,
+        "unitID" : 579,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Available Warjack Points" : -14
+        }
+      }, {
+        "unitName" : "Alexia Ciannor & The Risen",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 10,
+        "unitID" : 580,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 10
+        }
+      }, {
+        "unitName" : "Cephalyx Dominator",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 1,
+        "unitID" : 582,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 1
+        }
+      }, {
+        "unitName" : "Cephalyx Mind Bender & Drudges",
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 631,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 4
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 7,
+        "unitID" : 583,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 7
+        }
+      }, {
+        "unitName" : "Cephalyx Mind Slaver & Drudges",
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 630,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 4
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 8,
+        "unitID" : 584,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 8
+        }
+      }, {
+        "unitName" : "Cephalyx Overlords",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 8,
+        "unitID" : 585,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 8
+        }
+      }, {
+        "unitName" : "Croe's Cutthroats",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 629,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 10,
+        "unitID" : 586,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 10
+        }
+      }, {
+        "unitName" : "Cylena Raefyll & Nyss Hunters",
+        "listOfOptions" : [ {
+          "optionCost" : 7,
+          "listOfRestrictions" : null,
+          "optionID" : 628,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 7
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 12,
+        "unitID" : 587,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 12
+        }
+      }, {
+        "unitName" : "Dannon Blyth & Bull",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 5,
+        "unitID" : 588,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 5
+        }
+      }, {
+        "unitName" : "Greygore Boomhowler & Co.",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 627,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 11,
+        "unitID" : 589,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "11"
+        }
+      }, {
+        "unitName" : "Hammerfall High Shield Gun Corps",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 626,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 10,
+        "unitID" : 590,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 10
+        }
+      }, {
+        "unitName" : "Hammerfall High Shield Officer & Standard",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 5,
+        "unitID" : 591,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 5
+        }
+      }, {
+        "unitName" : "Herne & Jonne",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 5,
+        "unitID" : 592,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 5
+        }
+      }, {
+        "unitName" : "Horgenhold Artillery Coprs",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 6,
+        "unitID" : 593,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 6
+        }
+      }, {
+        "unitName" : "Horgenhold Forge Guard",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 624,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 10,
+        "unitID" : 594,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 10
+        }
+      }, {
+        "unitName" : "Idrian Skirmisher Chieftain & Guide",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 5,
+        "unitID" : 595,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 5
+        }
+      }, {
+        "unitName" : "Idrian Skirmishers",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 623,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 9,
+        "unitID" : 596,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 9
+        }
+      }, {
+        "unitName" : "Kayazy Assassin Underboss",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 597,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Kayazy Assassins",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 622,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 9,
+        "unitID" : 598,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 9
+        }
+      }, {
+        "unitName" : "Kayazy Eliminators",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 5,
+        "unitID" : 599,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 5
+        }
+      }, {
+        "unitName" : "Lady Aiyana & Master Holt",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 8,
+        "unitID" : 600,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 8
+        }
+      }, {
+        "unitName" : "Mr.Walls, the Quarter Master",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 601,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Ogrun Assault Corps",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 621,
+          "optionName" : "2 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 10,
+        "unitID" : 602,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 10
+        }
+      }, {
+        "unitName" : "Precursor Knight Officer & Standard",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 4,
+        "unitID" : 603,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Precursor Knights",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 620,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 9,
+        "unitID" : 604,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 9
+        }
+      }, {
+        "unitName" : "Press Gangers",
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 619,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 4
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 8,
+        "unitID" : 605,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 8
+        }
+      }, {
+        "unitName" : "Sea Dog Deck Gun",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 3,
+        "unitID" : 606,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 3
+        }
+      }, {
+        "unitName" : "Sea Dog Pirate Rifleman",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 2,
+        "unitID" : 607,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 2
+        }
+      }, {
+        "unitName" : "Sea Dog Pirates",
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 618,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 5
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 8,
+        "unitID" : 608,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 8
+        }
+      }, {
+        "unitName" : "Steelhead Halberdiers",
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 617,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 4
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 7,
+        "unitID" : 609,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 7
+        }
+      }, {
+        "unitName" : "Steelhead Heavy Cavalry",
+        "listOfOptions" : [ {
+          "optionCost" : 7,
+          "listOfRestrictions" : null,
+          "optionID" : 616,
+          "optionName" : "2 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 7
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 11,
+        "unitID" : 610,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 11
+        }
+      }, {
+        "unitName" : "Steelhead Riflemen",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 615,
+          "optionName" : "4 Additional Grunts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Unit Points Spent" : 6
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 8,
+        "unitID" : 611,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 8
+        }
+      }, {
+        "unitName" : "Tactical Arcanist Corps",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 7,
+        "unitID" : 612,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 7
+        }
+      }, {
+        "unitName" : "The Commodore Cannon & Crew",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 7,
+        "unitID" : 613,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "7"
+        }
+      }, {
+        "unitName" : "Thorn Gun Mages",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Units",
+        "unitCost" : 9,
+        "unitID" : 614,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 9
+        }
+      }, {
+        "unitName" : "Alexia, Mistress of the Witchfire",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 7,
+        "unitID" : 632,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 7
+        }
+      }, {
+        "unitName" : "Anastasia Di Bray",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 3,
+        "unitID" : 633,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 3
+        }
+      }, {
+        "unitName" : "Bloody Bradigan",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 3,
+        "unitID" : 634,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 3
+        }
+      }, {
+        "unitName" : "Brosun Grogspar",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 635,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Cephalyx Agitator",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 3,
+        "unitID" : 636,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 3
+        }
+      }, {
+        "unitName" : "Colbie Sterling, Captain of the Bri",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 3,
+        "unitID" : 637,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 3
+        }
+      }, {
+        "unitName" : "Dirty Meg",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 3,
+        "unitID" : 638,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 3
+        }
+      }, {
+        "unitName" : "Doc Killingsworth",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 639,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Eilish Garrity, The Occultist",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 5,
+        "unitID" : 640,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 5
+        }
+      }, {
+        "unitName" : "Eiryss, Angel of Retribution",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 6,
+        "unitID" : 641,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 6
+        }
+      }, {
+        "unitName" : "Eiryss, Mage Hunter of Ios",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 7,
+        "unitID" : 642,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 7
+        }
+      }, {
+        "unitName" : "First Mate Hawk",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 643,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Gastone Crosse",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 644,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Gorman Di Wulfe, Rogue Alchemist",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 645,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Harlan Versh, Illuminated One",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 646,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Kell Bailoch",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 5,
+        "unitID" : 647,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 5
+        }
+      }, {
+        "unitName" : "Lord Rockbottom",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 648,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Madelyn Corbeau, Ordic Courtesan",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 649,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Major Harrison Gibbs",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 650,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Master Gunner Dougal Macnaile",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 651,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Ogrun Bokur",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 5,
+        "unitID" : 652,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "5"
+        }
+      }, {
+        "unitName" : "Orin Midwinter, Rogue Inquisitor",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 5,
+        "unitID" : 653,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 5
+        }
+      }, {
+        "unitName" : "Ragman",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 654,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Raluk Moorclaw, The Ironmonger",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 655,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Reinholdt, Gobber Speculator",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 656,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Rhupert Carvolo, Piper of Ord",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 657,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Rutger Shaw, Professional Adventurer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 658,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Savio Montero Acosta",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 6,
+        "unitID" : 659,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 6
+        }
+      }, {
+        "unitName" : "Sergeant Nicolas Verendrye",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 660,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Stannis Brocker",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 7,
+        "unitID" : 661,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 7
+        }
+      }, {
+        "unitName" : "Swamp Gobber River Raider",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 662,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Sylys Wyshnalyrr, The Seeker",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 663,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Taryn Di La Rovissi, Llaelese Gun Mage",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 5,
+        "unitID" : 664,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : "5"
+        }
+      }, {
+        "unitName" : "Thor Steinhammer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Solos",
+        "unitCost" : 4,
+        "unitID" : 665,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 4
+        }
+      }, {
+        "unitName" : "Hammerfall Siege Crawler",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Battle Engines & Structures",
+        "unitCost" : 18,
+        "unitID" : 666,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : {
+          "Unit Points Spent" : 18
+        }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Mercenaries",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Warcasters & Warlocks", "Warjacks & Warbeasts", "Units", "Solos", "Battle Engines & Structures" ],
+    "listOfCurrencies" : [ "Available Warjack Points", "Unit Points Spent" ]
+  } ]
+}
