@@ -8,9 +8,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warcasters & Warlocks",
-        "unitCost" : -28,
+        "unitCost" : -28.0,
         "unitID" : 1008,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "28"
         }
@@ -19,9 +20,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warcasters & Warlocks",
-        "unitCost" : -29,
+        "unitCost" : -29.0,
         "unitID" : 1086,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "29"
         }
@@ -30,9 +32,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warcasters & Warlocks",
-        "unitCost" : -32,
+        "unitCost" : -32.0,
         "unitID" : 1087,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "32"
         }
@@ -41,9 +44,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warcasters & Warlocks",
-        "unitCost" : -29,
+        "unitCost" : -29.0,
         "unitID" : 1088,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "29"
         }
@@ -52,9 +56,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warcasters & Warlocks",
-        "unitCost" : -27,
+        "unitCost" : -27.0,
         "unitID" : 1089,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "27"
         }
@@ -63,9 +68,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warcasters & Warlocks",
-        "unitCost" : -28,
+        "unitCost" : -28.0,
         "unitID" : 1090,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "28"
         }
@@ -74,9 +80,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warcasters & Warlocks",
-        "unitCost" : -28,
+        "unitCost" : -28.0,
         "unitID" : 1091,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "28"
         }
@@ -85,9 +92,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warcasters & Warlocks",
-        "unitCost" : -30,
+        "unitCost" : -30.0,
         "unitID" : 1092,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "30"
         }
@@ -96,9 +104,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warcasters & Warlocks",
-        "unitCost" : -27,
+        "unitCost" : -27.0,
         "unitID" : 1093,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "27"
         }
@@ -107,9 +116,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warcasters & Warlocks",
-        "unitCost" : -28,
+        "unitCost" : -28.0,
         "unitID" : 1094,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "28"
         }
@@ -118,9 +128,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : -36,
+        "unitCost" : -36.0,
         "unitID" : 1095,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "36"
         }
@@ -129,9 +140,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 16,
+        "unitCost" : 16.0,
         "unitID" : 1096,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "16"
         }
@@ -140,18 +152,20 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : 0,
+        "unitCost" : 0.0,
         "unitID" : 1097,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Dahlia Hallyr",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 17,
+        "unitCost" : 17.0,
         "unitID" : 1098,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "17"
         }
@@ -160,18 +174,20 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : 0,
+        "unitCost" : 0.0,
         "unitID" : 1099,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Rorsh",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 15,
+        "unitCost" : 15.0,
         "unitID" : 1100,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "15"
         }
@@ -180,18 +196,20 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : 0,
+        "unitCost" : 0.0,
         "unitID" : 1101,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Wrong Eye",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 17,
+        "unitCost" : 17.0,
         "unitID" : 1102,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "17"
         }
@@ -200,18 +218,20 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : 0,
+        "unitCost" : 0.0,
         "unitID" : 1103,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Battle Boar",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : 7,
+        "unitCost" : 7.0,
         "unitID" : 1104,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "-7"
         }
@@ -220,9 +240,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : 16,
+        "unitCost" : 16.0,
         "unitID" : 1105,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "-16"
         }
@@ -231,9 +252,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : 10,
+        "unitCost" : 10.0,
         "unitID" : 1106,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "-10"
         }
@@ -242,9 +264,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warcasters & Warlocks",
-        "unitCost" : -23,
+        "unitCost" : -23.0,
         "unitID" : 1107,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "23"
         }
@@ -253,9 +276,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : 7,
+        "unitCost" : 7.0,
         "unitID" : 1108,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "-7"
         }
@@ -264,9 +288,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : 5,
+        "unitCost" : 5.0,
         "unitID" : 1109,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "-5"
         }
@@ -275,9 +300,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : 9,
+        "unitCost" : 9.0,
         "unitID" : 1110,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "-9"
         }
@@ -286,9 +312,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : 14,
+        "unitCost" : 14.0,
         "unitID" : 1111,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "-14"
         }
@@ -297,9 +324,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : 7,
+        "unitCost" : 7.0,
         "unitID" : 1112,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "-7"
         }
@@ -308,9 +336,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : 16,
+        "unitCost" : 16.0,
         "unitID" : 1113,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "-16"
         }
@@ -319,9 +348,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : 8,
+        "unitCost" : 8.0,
         "unitID" : 1114,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "-8"
         }
@@ -330,9 +360,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : 15,
+        "unitCost" : 15.0,
         "unitID" : 1115,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "-15"
         }
@@ -341,29 +372,32 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warjacks & Warbeasts",
-        "unitCost" : 15,
+        "unitCost" : 15.0,
         "unitID" : 1116,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Available Warjack Points" : "-15"
         }
       }, {
         "unitName" : "Bog Trog Ambushers",
         "listOfOptions" : [ {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 1203,
           "optionName" : "4 Additional Grunts",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Unit Points Spent" : "5"
           }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
-        "unitCost" : 8,
+        "unitCost" : 8.0,
         "unitID" : 1117,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "8"
         }
@@ -372,29 +406,32 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
-        "unitCost" : 5,
+        "unitCost" : 5.0,
         "unitID" : 1118,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "5"
         }
       }, {
         "unitName" : "Croak Raiders",
         "listOfOptions" : [ {
-          "optionCost" : 6,
+          "optionCost" : 6.0,
           "listOfRestrictions" : null,
           "optionID" : 1204,
           "optionName" : "4 Additional Grunts",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Unit Points Spent" : "6"
           }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
-        "unitCost" : 10,
+        "unitCost" : 10.0,
         "unitID" : 1119,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "10"
         }
@@ -403,29 +440,32 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
-        "unitCost" : 3,
+        "unitCost" : 3.0,
         "unitID" : 1120,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "3"
         }
       }, {
         "unitName" : "Farrow Bone Grinders",
         "listOfOptions" : [ {
-          "optionCost" : 3,
+          "optionCost" : 3.0,
           "listOfRestrictions" : null,
           "optionID" : 1205,
           "optionName" : "2 Additional Grunts",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Unit Points Spent" : "3"
           }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
-        "unitCost" : 5,
+        "unitCost" : 5.0,
         "unitID" : 1121,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "5"
         }
@@ -434,49 +474,54 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
-        "unitCost" : 4,
+        "unitCost" : 4.0,
         "unitID" : 1122,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "4"
         }
       }, {
         "unitName" : "Farrow Brigands",
         "listOfOptions" : [ {
-          "optionCost" : 6,
+          "optionCost" : 6.0,
           "listOfRestrictions" : null,
           "optionID" : 1206,
           "optionName" : "4 Additional Grunts",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Unit Points Spent" : "6"
           }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
-        "unitCost" : 9,
+        "unitCost" : 9.0,
         "unitID" : 1123,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "9"
         }
       }, {
         "unitName" : "Farrow Commandos",
         "listOfOptions" : [ {
-          "optionCost" : 6,
+          "optionCost" : 6.0,
           "listOfRestrictions" : null,
           "optionID" : 1207,
           "optionName" : "4 Additional Grunts",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Unit Points Spent" : "6"
           }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
-        "unitCost" : 9,
+        "unitCost" : 9.0,
         "unitID" : 1124,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "9"
         }
@@ -485,9 +530,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
-        "unitCost" : 5,
+        "unitCost" : 5.0,
         "unitID" : 1125,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "5"
         }
@@ -496,9 +542,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
-        "unitCost" : 11,
+        "unitCost" : 11.0,
         "unitID" : 1126,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "11"
         }
@@ -507,9 +554,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
-        "unitCost" : 8,
+        "unitCost" : 8.0,
         "unitID" : 1127,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "8"
         }
@@ -518,29 +566,32 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
-        "unitCost" : 10,
+        "unitCost" : 10.0,
         "unitID" : 1128,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "10"
         }
       }, {
         "unitName" : "Gatorman Posse",
         "listOfOptions" : [ {
-          "optionCost" : 6,
+          "optionCost" : 6.0,
           "listOfRestrictions" : null,
           "optionID" : 1208,
           "optionName" : "2 Additional Grunts",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Unit Points Spent" : "6"
           }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
-        "unitCost" : 10,
+        "unitCost" : 10.0,
         "unitID" : 1129,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "10"
         }
@@ -549,9 +600,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
-        "unitCost" : 5,
+        "unitCost" : 5.0,
         "unitID" : 1130,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "5"
         }
@@ -560,9 +612,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
-        "unitCost" : 2,
+        "unitCost" : 2.0,
         "unitID" : 1131,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "2"
         }
@@ -571,9 +624,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
-        "unitCost" : 1,
+        "unitCost" : 1.0,
         "unitID" : 1132,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "1"
         }
@@ -582,9 +636,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 5,
+        "unitCost" : 5.0,
         "unitID" : 1133,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "5"
         }
@@ -593,9 +648,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 6,
+        "unitCost" : 6.0,
         "unitID" : 1134,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "6"
         }
@@ -604,9 +660,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 4,
+        "unitCost" : 4.0,
         "unitID" : 1135,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "4"
         }
@@ -615,9 +672,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 3,
+        "unitCost" : 3.0,
         "unitID" : 1136,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "3"
         }
@@ -626,9 +684,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 2,
+        "unitCost" : 2.0,
         "unitID" : 1137,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "2"
         }
@@ -637,9 +696,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 3,
+        "unitCost" : 3.0,
         "unitID" : 1138,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "3"
         }
@@ -648,9 +708,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 6,
+        "unitCost" : 6.0,
         "unitID" : 1139,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "6"
         }
@@ -659,9 +720,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 2,
+        "unitCost" : 2.0,
         "unitID" : 1140,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "2"
         }
@@ -670,9 +732,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 3,
+        "unitCost" : 3.0,
         "unitID" : 1141,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "3"
         }
@@ -681,9 +744,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 5,
+        "unitCost" : 5.0,
         "unitID" : 1142,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "5"
         }
@@ -692,9 +756,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 4,
+        "unitCost" : 4.0,
         "unitID" : 1143,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "4"
         }
@@ -703,9 +768,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 2,
+        "unitCost" : 2.0,
         "unitID" : 1144,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "2"
         }
@@ -714,9 +780,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 3,
+        "unitCost" : 3.0,
         "unitID" : 1145,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "3"
         }
@@ -725,9 +792,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 5,
+        "unitCost" : 5.0,
         "unitID" : 1146,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "5"
         }
@@ -736,9 +804,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 6,
+        "unitCost" : 6.0,
         "unitID" : 1147,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "6"
         }
@@ -747,9 +816,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 4,
+        "unitCost" : 4.0,
         "unitID" : 1148,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "4"
         }
@@ -758,9 +828,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 4,
+        "unitCost" : 4.0,
         "unitID" : 1149,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "4"
         }
@@ -769,9 +840,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 5,
+        "unitCost" : 5.0,
         "unitID" : 1150,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "5"
         }
@@ -780,9 +852,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 4,
+        "unitCost" : 4.0,
         "unitID" : 1151,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "4"
         }
@@ -791,9 +864,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 4,
+        "unitCost" : 4.0,
         "unitID" : 1152,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "4"
         }
@@ -802,9 +876,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 1,
+        "unitCost" : 1.0,
         "unitID" : 1153,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "1"
         }
@@ -813,9 +888,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 4,
+        "unitCost" : 4.0,
         "unitID" : 1154,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "4"
         }
@@ -824,9 +900,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 5,
+        "unitCost" : 5.0,
         "unitID" : 1155,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "5"
         }
@@ -835,9 +912,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 6,
+        "unitCost" : 6.0,
         "unitID" : 1156,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "6"
         }
@@ -846,9 +924,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 4,
+        "unitCost" : 4.0,
         "unitID" : 1157,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "4"
         }
@@ -857,9 +936,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Solos",
-        "unitCost" : 4,
+        "unitCost" : 4.0,
         "unitID" : 1158,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "4"
         }
@@ -868,9 +948,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Battle Engines & Structures",
-        "unitCost" : 16,
+        "unitCost" : 16.0,
         "unitID" : 1159,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "16"
         }
@@ -879,9 +960,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Battle Engines & Structures",
-        "unitCost" : 17,
+        "unitCost" : 17.0,
         "unitID" : 1160,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Unit Points Spent" : "17"
         }
@@ -891,6 +973,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Warcasters & Warlocks", "Warjacks & Warbeasts", "Units", "Solos", "Battle Engines & Structures" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ "Available Warjack Points", "Unit Points Spent" ]
   } ]
 }
