@@ -587,7 +587,7 @@
           "optionID" : 85,
           "optionName" : "2 Additional Grunts",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 2,
           "listOfCurrencies" : {
             "Unit Points Spent" : 2
           }
@@ -609,7 +609,7 @@
           "optionID" : 86,
           "optionName" : "4 Additional Grunts",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 4,
           "listOfCurrencies" : {
             "Unit Points Spent" : 6
           }
@@ -655,7 +655,7 @@
           "optionID" : 91,
           "optionName" : "4 Additional Grunts",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 4,
           "listOfCurrencies" : {
             "Unit Points Spent" : 6
           }
@@ -677,7 +677,7 @@
           "optionID" : 92,
           "optionName" : "2 Additional Grunts",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 2,
           "listOfCurrencies" : {
             "Unit Points Spent" : 8
           }
@@ -735,7 +735,7 @@
           "optionID" : 97,
           "optionName" : "4 Additional Grunts",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 4,
           "listOfCurrencies" : {
             "Unit Points Spent" : 6
           }
@@ -793,7 +793,7 @@
           "optionID" : 102,
           "optionName" : "4 Additional Grunts",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 4,
           "listOfCurrencies" : {
             "Unit Points Spent" : 5
           }
@@ -815,7 +815,7 @@
           "optionID" : 103,
           "optionName" : "2 Additional Grunts",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 2,
           "listOfCurrencies" : {
             "Unit Points Spent" : 7
           }
@@ -897,7 +897,7 @@
           "optionID" : 112,
           "optionName" : "4 Additional Grunts",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 4,
           "listOfCurrencies" : {
             "Unit Points Spent" : 5
           }
@@ -931,7 +931,7 @@
           "optionID" : 113,
           "optionName" : "4 Additional Grunts",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 4,
           "listOfCurrencies" : {
             "Unit Points Spent" : 6
           }
@@ -989,7 +989,7 @@
           "optionID" : 117,
           "optionName" : "4 Additional Grunts",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 4,
           "listOfCurrencies" : {
             "Unit Points Spent" : 7
           }
