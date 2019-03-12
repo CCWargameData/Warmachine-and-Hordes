@@ -192,7 +192,7 @@
           "Unit Points Spent" : 9
         }
       }, {
-        "unitName" : "Crucible Guard Infantry Officer And Standard",
+        "unitName" : "Crucible Guard Infantry Officer and Standard",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Units",
